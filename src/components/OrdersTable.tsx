@@ -1,6 +1,5 @@
 import * as React from 'react';
 import data from '../data/receipts.json';
-import styled from 'styled-components';
 
 import { TableContainer, Table, TableBody, TableRow, TableCell, TableHead, Paper } from "@mui/material";
 
